@@ -1,5 +1,4 @@
 import os
-import time
 import requests
 import pytest
 from dotenv import load_dotenv
